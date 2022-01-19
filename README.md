@@ -5,4 +5,4 @@
   elogios e suporte. Para este projeto utilizou-se HTML e CSS puros (sem a utilização de frameworks ou API's adicionais).
 </p>
 
-<img src="/img/printFormulario.png" alt="Imagem do formulário">
+<img src="https://github.com/tiago-senai2022/Formulario-HTML-CSS/blob/main/img/printFormulario.PNG" alt="Imagem do formulário">
